@@ -1,0 +1,1 @@
+Smaller version of the social media app Telescope using Meteor.
